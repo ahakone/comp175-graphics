@@ -1,0 +1,2 @@
+normalizing the ray in Intersect in Sphere.h causes the sphere to be a flat blue circle. Doing the same in Cube.h causing the cube to disappear
+saw some stuff online about needing the transpose of the inverse of the model view matrix
