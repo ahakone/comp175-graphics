@@ -13,6 +13,8 @@ The primitives are
 	<li>Flower</li>
 </ul>
 
+Collaborator: Megan Van Welie
+
 ### Camera
 Camera object (perspective transformation).
 Controls include
@@ -22,11 +24,15 @@ Controls include
 	<li>Camera position</li>
 	<li>Camera look vector</li>
 	<li>Near and far clipping plane</li>
-
 </ul>
+
+Collaborator: Megan Van Welie
+
 
 ### Sceneview
 Renders scenes defined in XML files. The sceneview program transforms the given vertices and normals from object space to world space and applies colors to the objects for rendering. 
+
+Collaborator: Megan Van Welie
 
 ### Intersect
 Basic ray tracer that 
@@ -35,6 +41,8 @@ Basic ray tracer that
 	<li>Finds the closest object along each ray</li>
 	<li> Lights (illuminates) the scene </li>
 </ol>
+
+Collaborator: Reema Al-Marzoog
 
 ### Ray Tracing
 Extension of Intersect to support 
@@ -45,3 +53,5 @@ Extension of Intersect to support
 	<li>Point and directional lighting</li>
 	<li> Antialiasing</li>
 </ul>
+
+Collaborator: Reema Al-Marzoog
